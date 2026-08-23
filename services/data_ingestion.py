@@ -4,8 +4,7 @@ from datetime import datetime
 from sqlalchemy.orm import Session
 from models import SKU
 
-
-DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "..", "data")
+DATA_DIR = os.path.join(os.path.dirname(__file__), "..")
 
 SOURCE_FILES = {
     "email": os.path.join(DATA_DIR, "inventory_email_export.csv"),
