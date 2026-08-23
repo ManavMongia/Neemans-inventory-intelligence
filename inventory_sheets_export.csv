@@ -1,0 +1,36 @@
+sku_id,product_name,category,warehouse,qty_on_hand,reorder_point,incoming_stock_qty,incoming_stock_date,avg_daily_sales,last_updated
+NM-001,Classic Wool Socks - Navy,Socks - Classic,Store - Delhi,32,20,0,,2.8,2026-08-20
+NM-002,Classic Wool Socks - Grey,Socks - Classic,Store - Delhi,8,20,0,,3.1,2026-08-20
+NM-003,Classic Wool Socks - Black,Socks - Classic,Store - Delhi,5,20,0,,4.2,2026-08-20
+NM-004,Classic Wool Socks - White,Socks - Classic,Store - Delhi,55,20,0,,2.0,2026-08-20
+NM-005,Classic Wool Socks - Olive,Socks - Classic,Store - Mumbai,0,15,50,2026-08-23,3.5,2026-08-20
+NM-006,Running Socks - Grey,Socks - Running,Store - Mumbai,12,20,0,,5.1,2026-08-20
+NM-007,Running Socks - Black,Socks - Running,Store - Mumbai,3,20,0,,6.0,2026-08-20
+NM-008,Running Socks - Blue,Socks - Running,Store - Mumbai,40,20,0,,2.5,2026-08-20
+NM-009,Running Socks - Red,Socks - Running,Store - Bangalore,1,20,0,,4.8,2026-08-20
+NM-010,Ankle Socks - Black,Socks - Ankle,Store - Bangalore,22,15,0,,1.8,2026-08-20
+NM-011,Ankle Socks - White,Socks - Ankle,Store - Bangalore,9,15,0,,2.7,2026-08-20
+NM-012,Ankle Socks - Beige,Socks - Ankle,Store - Bangalore,0,15,0,,2.2,2026-08-20
+NM-013,Ankle Socks - Charcoal,Socks - Ankle,Store - Bangalore,75,15,0,,1.1,2026-08-20
+NM-014,Cushioned Socks - Trek,Socks - Cushioned,Store - Delhi,14,25,0,,3.9,2026-08-20
+NM-015,Cushioned Socks - Hike,Socks - Cushioned,Store - Delhi,4,25,0,,4.8,2026-08-20
+NM-016,Cushioned Socks - Camp,Socks - Cushioned,Store - Mumbai,0,25,0,,5.2,2026-08-20
+NM-017,No-Show Socks - Black,Socks - No-Show,Store - Mumbai,18,20,0,,3.5,2026-08-20
+NM-018,No-Show Socks - White,Socks - No-Show,Store - Bangalore,7,20,0,,4.1,2026-08-20
+NM-019,No-Show Socks - Skin,Socks - No-Show,Store - Bangalore,4,20,0,,3.0,2026-08-20
+NM-020,No-Show Socks - Grey,Socks - No-Show,Store - Delhi,82,20,0,,1.7,2026-08-20
+NM-021,Loafer Socks - Black,Socks - Loafer,Store - Delhi,10,15,0,,2.8,2026-08-20
+NM-022,Loafer Socks - Brown,Socks - Loafer,Store - Mumbai,3,15,0,,3.3,2026-08-20
+NM-023,Loafer Socks - Navy,Socks - Loafer,Store - Bangalore,62,15,0,,1.4,2026-08-20
+NM-024,Casual Crew - Stripes,Socks - Casual,Store - Delhi,15,15,0,,4.3,2026-08-20
+NM-025,Casual Crew - Dots,Socks - Casual,Store - Mumbai,2,15,0,,3.8,2026-08-20
+NM-026,Casual Crew - Plain Rust,Socks - Casual,Store - Bangalore,34,15,0,,2.1,2026-08-20
+NM-027,Kids Socks - Blue,Socks - Kids,Store - Delhi,7,20,0,,3.5,2026-08-20
+NM-028,Kids Socks - Pink,Socks - Kids,Store - Mumbai,12,20,0,,3.1,2026-08-20
+NM-029,Kids Socks - Green,Socks - Kids,Store - Bangalore,0,20,0,,4.5,2026-08-20
+NM-030,Gift Set - Classic 3-Pack,Gift Sets,Store - Delhi,25,10,0,,1.5,2026-08-20
+NM-031,Premium Gift Box - 5-Pack,Gift Sets,Store - Mumbai,8,10,0,,1.2,2026-08-20
+NM-032,Compression Socks - Black,Socks - Compression,Store - Bangalore,6,20,0,,3.8,2026-08-20
+NM-033,Compression Socks - Navy,Socks - Compression,Store - Delhi,0,20,0,,4.2,2026-08-20
+NM-034,Liner Socks - Classic - Black,Socks - Liner,Store - Mumbai,45,15,0,,2.3,2026-08-20
+NM-035,Liner Socks - Classic - White,Socks - Liner,Store - Bangalore,18,15,0,,1.9,2026-08-20

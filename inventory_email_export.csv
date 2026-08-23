@@ -1,0 +1,31 @@
+sku_id,product_name,category,warehouse,qty_on_hand,reorder_point,incoming_stock_qty,incoming_stock_date,avg_daily_sales,last_updated
+NM-001,Classic Wool Socks - Navy,Socks - Classic,Warehouse A,45,30,100,2026-08-28,3.5,2026-08-19
+NM-002,Classic Wool Socks - Grey,Socks - Classic,Warehouse A,12,30,0,,4.2,2026-08-19
+NM-003,Classic Wool Socks - Black,Socks - Classic,Warehouse A,8,30,150,2026-08-25,5.1,2026-08-19
+NM-004,Classic Wool Socks - White,Socks - Classic,Warehouse A,120,30,0,,2.8,2026-08-19
+NM-005,Classic Wool Socks - Olive,Socks - Classic,Warehouse A,0,30,200,2026-08-22,4.0,2026-08-19
+NM-006,Running Socks - Grey,Socks - Running,Warehouse A,18,25,0,,6.3,2026-08-19
+NM-007,Running Socks - Black,Socks - Running,Warehouse A,5,25,80,2026-08-27,7.2,2026-08-19
+NM-008,Running Socks - Blue,Socks - Running,Warehouse A,92,25,0,,3.1,2026-08-19
+NM-009,Running Socks - Red,Socks - Running,Warehouse A,3,25,0,,5.8,2026-08-19
+NM-010,Ankle Socks - Black,Socks - Ankle,Warehouse A,67,20,0,,2.2,2026-08-19
+NM-011,Ankle Socks - White,Socks - Ankle,Warehouse A,14,20,60,2026-08-26,3.4,2026-08-19
+NM-012,Ankle Socks - Beige,Socks - Ankle,Warehouse A,0,20,0,,2.9,2026-08-19
+NM-013,Ankle Socks - Charcoal,Socks - Ankle,Warehouse A,180,20,0,,1.5,2026-08-19
+NM-014,Cushioned Socks - Trek,Socks - Cushioned,Warehouse A,31,40,0,,4.8,2026-08-19
+NM-015,Cushioned Socks - Hike,Socks - Cushioned,Warehouse A,7,40,120,2026-08-23,5.5,2026-08-19
+NM-016,Cushioned Socks - Camp,Socks - Cushioned,Warehouse A,0,40,0,,6.1,2026-08-19
+NM-017,No-Show Socks - Black,Socks - No-Show,Warehouse B,44,35,0,,4.3,2026-08-19
+NM-018,No-Show Socks - White,Socks - No-Show,Warehouse B,11,35,100,2026-08-24,5.0,2026-08-19
+NM-019,No-Show Socks - Skin,Socks - No-Show,Warehouse B,9,35,0,,3.7,2026-08-19
+NM-020,No-Show Socks - Grey,Socks - No-Show,Warehouse B,200,35,0,,2.1,2026-08-19
+NM-021,Loafer Socks - Black,Socks - Loafer,Warehouse B,23,25,0,,3.3,2026-08-19
+NM-022,Loafer Socks - Brown,Socks - Loafer,Warehouse B,6,25,50,2026-08-29,4.1,2026-08-19
+NM-023,Loafer Socks - Navy,Socks - Loafer,Warehouse B,155,25,0,,1.8,2026-08-19
+NM-024,Casual Crew - Stripes,Socks - Casual,Warehouse B,38,20,0,,5.2,2026-08-19
+NM-025,Casual Crew - Dots,Socks - Casual,Warehouse B,4,20,0,,4.7,2026-08-19
+NM-026,Casual Crew - Plain Rust,Socks - Casual,Warehouse B,88,20,0,,2.6,2026-08-19
+NM-027,Kids Socks - Blue,Socks - Kids,Warehouse B,16,30,75,2026-08-26,4.4,2026-08-19
+NM-028,Kids Socks - Pink,Socks - Kids,Warehouse B,29,30,0,,3.8,2026-08-19
+NM-029,Kids Socks - Green,Socks - Kids,Warehouse B,2,30,0,,5.6,2026-08-19
+NM-030,Gift Set - Classic 3-Pack,Gift Sets,Warehouse B,60,15,0,,2.0,2026-08-19
