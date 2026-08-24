@@ -44,10 +44,7 @@ app = FastAPI(
 )
 
 # CORS
-frontend_url = os.getenv(
-    "FRONTEND_URL",
-    "https://neemans-inventory-intelligence-2.onrender.com"
-)
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
