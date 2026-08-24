@@ -36,7 +36,6 @@ async def lifespan(app: FastAPI):
         scheduler.shutdown(wait=False)
         print("[shutdown] Scheduler stopped.")
 
-
 app = FastAPI(
     title="Neeman's Inventory Intelligence API",
     description="AI-powered inventory dashboard backend with automation agent",
@@ -45,10 +44,19 @@ app = FastAPI(
 )
 
 # CORS
-frontend_url = os.getenv("FRONTEND_URL", "http://localhost:3000")
+frontend_url = os.getenv(
+    "FRONTEND_URL",
+    "https://neemans-inventory-intelligence-2.onrender.com"
+)
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[frontend_url, "http://localhost:3000", "http://localhost:3001"],
+    allow_origins=[
+        frontend_url,
+        "https://neemans-inventory-intelligence-2.onrender.com",
+        "http://localhost:3000",
+        "http://localhost:3001",
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
