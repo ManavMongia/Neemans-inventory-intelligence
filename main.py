@@ -48,11 +48,10 @@ frontend_url = os.getenv(
     "FRONTEND_URL",
     "https://neemans-inventory-intelligence-2.onrender.com"
 )
-
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        frontend_url,
+        "https://neemans-inventory-intelligence-1.onrender.com",
         "https://neemans-inventory-intelligence-2.onrender.com",
         "http://localhost:3000",
         "http://localhost:3001",
